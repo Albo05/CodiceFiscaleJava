@@ -1,0 +1,1637 @@
+A001Abano Terme
+A004	Abbadia Cerreto
+A005	Abbadia Lariana
+A006	Abbadia San Salvatore
+A007	Abbasanta
+A008	Abbateggio
+A010	Abbiategrasso
+A012	Abetone
+A013	Abriola
+A014	Acate
+A015	Accadia
+A016	Acceglio
+A017	Accettura
+A018	Acciano
+A019	Accumoli
+A020	Acerenza
+A022	Cermes
+A023	Acerno
+A024	Acerra
+A025	Aci Bonaccorsi
+A026	Aci Castello
+A027	Aci Catena
+A028	Acireale
+A029	Aci Sant'Antonio
+A031	Acquacanina
+A032	Acquafondata
+A033	Acquaformosa
+A034	Acquafredda
+A035	Acqualagna
+A038	Acquanegra sul Chiese
+A039	Acquanegra Cremonese
+A040	Acquapendente
+A041	Acquappesa
+A042	Acquarica del Capo
+A043	Acquaro
+A044	Acquasanta Terme
+A045	Acquasparta
+A047	Acquaviva Picena
+A048	Acquaviva delle Fonti
+A049	Acquaviva Platani
+A050	Acquaviva Collecroce
+A051	Acquaviva d'Isernia
+A052	Acqui Terme
+A053	Acri
+A054	Acuto
+A055	Adelfia
+A056	Adrano
+A057	Adrara San Martino
+A058	Adrara San Rocco
+A059	Adria
+A060	Adro
+A061	Affi
+A062	Affile
+A064	Afragola
+A065	Africo
+A067	Agazzano
+A068	Agerola
+A069	Aggius
+A070	Agira
+A071	Agliana
+A072	Agliano Terme
+A074	Agliè
+A075	Agna
+A076	Agnadello
+A077	Agnana Calabra
+A080	Agnone
+A081	Villa Latina
+A082	Agnosine
+A083	Agordo
+A084	Agosta
+A085	Agra
+A087	Agrate Brianza
+A088	Agrate Conturbia
+A089	Agrigento
+A091	Agropoli
+A092	Agugliano
+A093	Agugliaro
+A094	Ayas
+A096	Aicurzio
+A097	Aidomaggiore
+A098	Aidone
+A100	Aielli
+A101	Aiello del Sabato
+A102	Aiello Calabro
+A103	Aiello del Friuli
+A105	Aieta
+A106	Ailano
+A107	Ailoche
+A108	Aymavilles
+A109	Airasca
+A110	Airola
+A111	Airole
+A112	Airuno
+A113	Aisone
+A115	Alà dei Sardi
+A116	Ala
+A117	Ala di Stura
+A118	Alagna
+A119	Alagna Valsesia
+A120	Alanno
+A121	Alano di Piave
+A122	Alassio
+A123	Alatri
+A124	Alba
+A125	Alba Adriatica
+A126	Albagiara
+A127	Albairate
+A128	Albanella
+A129	Albano Sant'Alessandro
+A130	Albano Vercellese
+A131	Albano di Lucania
+A132	Albano Laziale
+A134	Albaredo Arnaboldi
+A135	Albaredo per San Marco
+A137	Albaredo d'Adige
+A138	Albareto
+A139	Albaretto della Torre
+A143	Albavilla
+A145	Albenga
+A146	Albera Ligure
+A149	Alberobello
+A150	Alberona
+A153	Albese con Cassano
+A154	Albettone
+A155	Albi
+A157	Albiano d'Ivrea
+A158	Albiano
+A159	Albiate
+A160	Albidona
+A161	Albignasego
+A162	Albinea
+A163	Albino
+A164	Albiolo
+A165	Albissola Marina
+A166	Albisola Superiore
+A167	Albizzate
+A171	Albonese
+A172	Albosaggia
+A173	Albugnano
+A175	Albuzzano
+A176	Alcamo
+A177	Alcara Li Fusi
+A178	Aldeno
+A179	Aldino
+A180	Ales
+A181	Alessandria della Rocca
+A182	Alessandria
+A183	Alessandria del Carretto
+A184	Alessano
+A185	Alezio
+A186	Alfano
+A187	Alfedena
+A188	Alfianello
+A189	Alfiano Natta
+A191	Alfonsine
+A192	Alghero
+A193	Algua
+A194	Alì
+A195	Alia
+A196	Aliano
+A197	Alice Bel Colle
+A198	Alice Castello
+A199	Alice Superiore
+A200	Alife
+A201	Alì Terme
+A202	Alimena
+A203	Aliminusa
+A204	Allai
+A205	Allein
+A206	Alleghe
+A207	Allerona
+A208	Alliste
+A210	Allumiere
+A211	Alluvioni Cambiò
+A214	Almè
+A215	Villa d'Almè
+A216	Almenno San Bartolomeo
+A217	Almenno San Salvatore
+A218	Almese
+A220	Alonte
+A221	Alpette
+A222	Alpignano
+A223	Alseno
+A224	Alserio
+A225	Altamura
+A226	Altare
+A227	Altavilla Monferrato
+A228	Altavilla Irpina
+A229	Altavilla Milicia
+A230	Altavilla Silentina
+A231	Altavilla Vicentina
+A233	Altidona
+A234	Altilia
+A235	Altino
+A236	Altissimo
+A237	Altivole
+A238	Alto
+A239	Altofonte
+A240	Altomonte
+A241	Altopascio
+A242	Alviano
+A243	Alvignano
+A244	Alvito
+A245	Alzano Scrivia
+A246	Alzano Lombardo
+A249	Alzate Brianza
+A251	Amalfi
+A252	Amandola
+A253	Amantea
+A254	Amaro
+A255	Amaroni
+A256	Amaseno
+A257	Amato
+A258	Amatrice
+A259	Ambivere
+A261	Ameglia
+A262	Amelia
+A263	Amendolara
+A264	Ameno
+A265	Amorosi
+A266	Cortina d'Ampezzo
+A267	Ampezzo
+A268	Anacapri
+A269	Anagni
+A270	Ancarano
+A271	Ancona
+A272	Andali
+A273	Andalo Valtellino
+A274	Andalo
+A275	Andezeno
+A278	Andora
+A280	Andorno Micca
+A281	Andrano
+A282	Andrate
+A283	Andreis
+A284	Andretta
+A285	Andria
+A286	Andriano
+A287	Anela
+A288	Anfo
+A290	Angera
+A291	Anghiari
+A292	Angiari
+A293	Angolo Terme
+A294	Angri
+A295	Angrogna
+A296	Anguillara Veneta
+A297	Anguillara Sabazia
+A299	Annicco
+A300	Castello di Annone
+A301	Annone di Brianza
+A302	Annone Veneto
+A303	Anoia
+A304	Antegnate
+A305	Antey-Saint-André
+A306	Anterivo
+A308	La Magdeleine
+A309	Anticoli Corrado
+A310	Fiuggi
+A312	Antignano
+A313	Antillo
+A314	Antonimina
+A315	Antrodoco
+A317	Antrona Schieranco
+A318	Anversa degli Abruzzi
+A319	Anzano del Parco
+A320	Anzano di Puglia
+A321	Anzi
+A323	Anzio
+A324	Anzola dell'Emilia
+A325	Anzola d'Ossola
+A326	Aosta
+A327	Apecchio
+A328	Apice
+A329	Apiro
+A330	Apollosa
+A332	Appiano sulla Strada del Vino
+A333	Appiano Gentile
+A334	Appignano
+A335	Appignano del Tronto
+A337	Aprica
+A338	Apricale
+A339	Apricena
+A340	Aprigliano
+A341	Aprilia
+A343	Aquara
+A344	Aquila d'Arroscia
+A345	L'Aquila
+A346	Aquileia
+A347	Aquilonia
+A348	Aquino
+A350	Aradeo
+A351	Aragona
+A352	Aramengo
+A354	Arba
+A355	Tortolì
+A357	Arborea
+A358	Arborio
+A359	Arbus
+A360	Arcade
+A363	Arce
+A365	Arcene
+A366	Arcevia
+A367	Archi
+A368	San Nicolò d'Arcidano
+A369	Arcidosso
+A370	Arcinazzo Romano
+A371	Arcisate
+A372	Arco
+A373	Arcola
+A374	Arcole
+A375	Arconate
+A376	Arcore
+A377	Arcugnano
+A379	Ardara
+A380	Ardauli
+A382	Ardenno
+A383	Ardesio
+A385	Ardore
+A386	Arena
+A387	Arena Po
+A388	Arenzano
+A389	Arese
+A390	Arezzo
+A391	Argegno
+A392	Argelato
+A393	Argenta
+A394	Argentera
+A396	Arguello
+A397	Argusto
+A398	Ari
+A399	Ariano Irpino
+A400	Ariano nel Polesine
+A401	Ariccia
+A402	Arielli
+A403	Arienzo
+A405	Arignano
+A407	Aritzo
+A409	Arizzano
+A412	Arlena di Castro
+A413	Arluno
+A414	Armeno
+A415	Armento
+A418	Armo
+A419	Armungia
+A421	Arnara
+A422	Arnasco
+A424	Arnad
+A425	Arnesano
+A427	Arola
+A429	Arona
+A430	Arosio
+A431	Arpaia
+A432	Arpaise
+A433	Arpino
+A434	Arquà Petrarca
+A435	Arquà Polesine
+A436	Arquata Scrivia
+A437	Arquata del Tronto
+A438	Arre
+A439	Arrone
+A440	Arzago d'Adda
+A441	Arsago Seprio
+A443	Arsiè
+A444	Arsiero
+A445	Arsita
+A446	Arsoli
+A447	Arta Terme
+A448	Artegna
+A449	Artena
+A451	Artogne
+A452	Arvier
+A453	Arzachena
+A454	Arzana
+A455	Arzano
+A458	Arzergrande
+A459	Arzignano
+A460	Ascea
+A461	Asciano
+A462	Ascoli Piceno
+A463	Ascoli Satriano
+A464	Ascrea
+A465	Asiago
+A466	Asigliano Vercellese
+A467	Asigliano Veneto
+A468	Sinalunga
+A470	Asola
+A471	Asolo
+A472	Casperia
+A473	Assago
+A474	Assemini
+A475	Assisi
+A476	Asso
+A477	Assolo
+A478	Assoro
+A479	Asti
+A480	Asuni
+A481	Ateleta
+A482	Atella
+A484	Atena Lucana
+A485	Atessa
+A486	Atina
+A487	Atrani
+A488	Atri
+A489	Atripalda
+A490	Attigliano
+A491	Attimis
+A492	Atzara
+A493	Auditore
+A494	Augusta
+A495	Auletta
+A496	Aulla
+A497	Aurano
+A499	Aurigo
+A501	Auronzo di Cadore
+A502	Ausonia
+A503	Austis
+A506	Avegno
+A507	Avelengo
+A508	Avella
+A509	Avellino
+A511	Averara
+A512	Aversa
+A514	Avetrana
+A515	Avezzano
+A516	Aviano
+A517	Aviatico
+A518	Avigliana
+A519	Avigliano
+A520	Avio
+A521	Avise
+A522	Avola
+A523	Avolasca
+A525	Azeglio
+A526	Azzanello
+A527	Azzano d'Asti
+A528	Azzano San Paolo
+A529	Azzano Mella
+A530	Azzano Decimo
+A531	Azzate
+A532	Azzio
+A533	Azzone
+A534	Baceno
+A535	Bacoli
+A536	Badalucco
+A537	Badia
+A538	Badia Pavese
+A539	Badia Polesine
+A540	Badia Calavena
+A541	Badia Tedalda
+A542	Badolato
+A544	Bagaladi
+A546	Bagheria
+A547	Bagnacavallo
+A550	Bagnaria
+A551	Bagnara di Romagna
+A552	Bagnara Calabra
+A553	Bagnaria Arsa
+A555	Bagnasco
+A557	Bagnatica
+A560	Bagni di Lucca
+A561	Montecatini-Terme
+A562	San Giuliano Terme
+A564	Bagno a Ripoli
+A565	Bagno di Romagna
+A566	Bagnoli Irpino
+A567	Bagnoli del Trigno
+A568	Bagnoli di Sopra
+A569	Bagnolo Mella
+A570	Bagnolo Cremasco
+A571	Bagnolo Piemonte
+A572	Bagnolo del Salento
+A573	Bagnolo in Piano
+A574	Bagnolo di Po
+A575	Bagnolo San Vito
+A576	Bagnone
+A577	Bagnoregio
+A578	Bagolino
+A579	Baia e Latina
+A580	Baiano
+A581	Bajardo
+A584	Bairo
+A586	Baiso
+A587	Balangero
+A588	Baldichieri d'Asti
+A589	Baldissero d'Alba
+A590	Baldissero Canavese
+A591	Baldissero Torinese
+A592	Balestrate
+A593	Balestrino
+A594	Ballabio
+A597	Ballao
+A599	Balme
+A600	Balmuccia
+A601	Balocco
+A603	Balsorano
+A604	Balvano
+A605	Balzola
+A606	Banari
+A607	Banchette
+A609	Villa Verde
+A610	Bannio Anzino
+A612	Banzi
+A613	Baone
+A614	Baradili
+A615	Baragiano
+A616	Baranello
+A617	Barano d'Ischia
+A618	Baranzate
+A619	Barasso
+A621	Baratili San Pietro
+A625	Barbania
+A626	Barbara
+A627	Barbarano Vicentino
+A628	Barbarano Romano
+A629	Barbaresco
+A630	Barbariga
+A631	Barbata
+A632	Barberino di Mugello
+A633	Barberino Val d'Elsa
+A634	Barbianello
+A635	Barbiano
+A637	Barbona
+A638	Barcellona Pozzo di Gotto
+A639	Barchi
+A640	Barcis
+A643	Bard
+A645	Bardello
+A646	Bardi
+A647	Bardineto
+A650	Bardolino
+A651	Bardonecchia
+A652	Bareggio
+A653	Barengo
+A655	Baressa
+A656	Barete
+A657	Barga
+A658	Bargagli
+A660	Barge
+A661	Barghe
+A662	Bari
+A663	Bari Sardo
+A664	Bariano
+A665	Baricella
+A666	Barile
+A667	Barisciano
+A668	Barlassina
+A669	Barletta
+A670	Barni
+A671	Barolo
+A673	Barone Canavese
+A674	Baronissi
+A676	Barrafranca
+A677	Barrali
+A678	Barrea
+A681	Barumini
+A683	Barzago
+A684	Barzana
+A686	Barzanò
+A687	Barzio
+A689	Basaluzzo
+A690	Bascapè
+A691	Baschi
+A692	Basciano
+A694	Baselga di Pinè
+A696	Baselice
+A697	Basiano
+A698	Basicò
+A699	Basiglio
+A700	Basiliano
+A701	Vasanello
+A702	Bassano Bresciano
+A703	Bassano del Grappa
+A704	Bassano Romano
+A705	Tronzano Lago Maggiore
+A706	Bassano in Teverina
+A707	Bassiano
+A708	Bassignana
+A709	Bastia Mondovì
+A710	Bastia Umbra
+A712	Bastida Pancarana
+A713	Bastiglia
+A714	Battaglia Terme
+A716	Battifollo
+A717	Battipaglia
+A718	Battuda
+A719	Baucina
+A720	Boville Ernica
+A721	Bauladu
+A722	Baunei
+A725	Baveno
+A728	Bedero Valcuvia
+A729	Bedizzole
+A730	Bedollo
+A731	Bedonia
+A732	Bedulita
+A733	Bee
+A734	Beinasco
+A735	Beinette
+A736	Belcastro
+A737	Belfiore
+A738	Belforte Monferrato
+A739	Belforte del Chienti
+A740	Belforte all'Isauro
+A741	Belgioioso
+A742	Belgirate
+A743	Bella
+A745	Bellano
+A746	Bellante
+A747	Bellaria-Igea Marina
+A749	Bellegra
+A750	Bellino
+A751	Bellinzago Lombardo
+A752	Bellinzago Novarese
+A755	Bellona
+A756	Bellosguardo
+A757	Belluno
+A759	Bellusco
+A760	Belmonte Piceno
+A761	Belmonte del Sannio
+A762	Belmonte Calabro
+A763	Belmonte Castello
+A764	Belmonte Mezzagno
+A765	Belmonte in Sabina
+A766	Belpasso
+A768	Belsito
+A769	Belvedere Ostrense
+A770	Belveglio
+A771	Lizzano in Belvedere
+A772	Belvedere di Spinello
+A773	Belvedere Marittimo
+A774	Belvedere Langhe
+A776	Belvì
+A777	Bema
+A778	Bene Lario
+A779	Bene Vagienna
+A780	Benestare
+A781	Benetutti
+A782	Benevello
+A783	Benevento
+A784	Benna
+A785	Bentivoglio
+A786	Berbenno
+A787	Berbenno di Valtellina
+A788	Berceto
+A789	Berchidda
+A791	Beregazzo con Figliaro
+A792	Bereguardo
+A793	Bergamasco
+A794	Bergamo
+A795	Bergantino
+A796	Bergeggi
+A798	Bergolo
+A799	Berlingo
+A801	Bernalda
+A802	Bernareggio
+A804	Bernate Ticino
+A805	Bernezzo
+A806	Berra
+A809	Bertinoro
+A810	Bertiolo
+A811	Bertonico
+A812	Berzano di San Pietro
+A813	Berzano di Tortona
+A815	Berzo San Fermo
+A816	Berzo Demo
+A817	Berzo Inferiore
+A818	Besana in Brianza
+A819	Besano
+A820	Besate
+A821	Besenello
+A823	Besenzone
+A825	Besnate
+A826	Besozzo
+A827	Bessude
+A831	Bettola
+A832	Bettona
+A834	Beura-Cardezza
+A835	Bevagna
+A836	Beverino
+A837	Bevilacqua
+A841	Biancavilla
+A842	Bianchi
+A843	Bianco
+A844	Biandrate
+A845	Biandronno
+A846	Bianzano
+A847	Bianzè
+A848	Bianzone
+A849	Biassono
+A850	Bibbiano
+A851	Bibbiena
+A852	Bibbona
+A853	Bibiana
+A854	Biccari
+A855	Bicinicco
+A856	Bidonì
+A857	Blera
+A859	Biella
+A861	Bienno
+A863	Bieno
+A864	Bientina
+A866	Bigarello
+A870	Binago
+A872	Binasco
+A874	Binetto
+A876	Bioglio
+A877	Bionaz
+A878	Bione
+A880	Birori
+A881	Bisaccia
+A882	Bisacquino
+A883	Bisceglie
+A884	Bisegna
+A885	Bisenti
+A887	Bisignano
+A889	Bistagno
+A891	Bisuschio
+A892	Bitetto
+A893	Bitonto
+A894	Bitritto
+A895	Bitti
+A896	Bivona
+A897	Bivongi
+A898	Bizzarone
+A902	Bleggio Superiore
+A903	Blello
+A904	Blessagno
+A905	Blevio
+A906	Boara Pisani
+A909	Bobbio
+A910	Bobbio Pellice
+A911	Boca
+A912	Bocchigliero
+A914	Boccioleto
+A916	Bocenago
+A918	Bodio Lomnago
+A919	Boffalora d'Adda
+A920	Boffalora Sopra Ticino
+A922	Bogliasco
+A925	Bognanco
+A929	Bogogno
+A930	Bojano
+A931	Boissano
+A932	Bolano
+A937	Bolgare
+A940	Bollate
+A941	Bollengo
+A942	Nova Siri
+A944	Bologna
+A945	Bolognano
+A946	Bolognetta
+A947	Bolognola
+A948	Bolotana
+A949	Bolsena
+A950	Boltiere
+A952	Bolzano
+A953	Bolzano Novarese
+A954	Bolzano Vicentino
+A955	Bomarzo
+A956	Bomba
+A957	Bompensiere
+A958	Bompietro
+A959	Bomporto
+A960	Bonarcado
+A961	Bonassola
+A962	Bonate Sotto
+A963	Bonate Sopra
+A964	Bonavigo
+A965	Bondeno
+A968	Bondone
+A970	Bonea
+A971	Bonefro
+A972	Bonemerse
+A973	Bonifati
+A975	Bonito
+A976	Bonnanaro
+A977	Bono
+A978	Bonorva
+A979	Bonvicino
+A981	Borbona
+A982	Borca di Cadore
+A983	Bordano
+A984	Bordighera
+A986	Bordolano
+A987	Bore
+A988	Boretto
+A989	Borgarello
+A990	Borgaro Torinese
+A991	Borgetto
+A992	Borghetto di Vara
+A993	Borghetto d'Arroscia
+A995	Borghetto Lodigiano
+A996	Borgo Velino
+A998	Borghetto di Borbera
+A999	Borghetto Santo Spirito
+B001	Borghi
+B002	Borgia
+B003	Borgiallo
+B005	Borgio Verezzi
+B006	Borgo Valsugana
+B007	Borgo a Mozzano
+B008	Borgorose
+B009	Borgo d'Ale
+B010	Borgo di Terzo
+B012	Motteggiana
+B013	Borgofranco sul Po
+B014	Suardi
+B015	Borgofranco d'Ivrea
+B016	Borgolavezzaro
+B017	Borgo San Giovanni
+B018	Borgomale
+B019	Borgomanero
+B020	Borgomaro
+B021	Borgomasino
+B024	Borgone Susa
+B025	Borgonovo Val Tidone
+B026	Borgo Pace
+B028	Borgo Priolo
+B029	Borgoratto Alessandrino
+B030	Borgoratto Mormorolo
+B031	Borgoricco
+B033	Borgo San Dalmazzo
+B034	Fidenza
+B035	Borgo San Giacomo
+B036	Borgo San Lorenzo
+B037	Borgo San Martino
+B038	Borgo San Siro
+B040	Borgosatollo
+B041	Borgosesia
+B042	Borgo Val di Taro
+B043	Borgo Ticino
+B044	Borgo Tossignano
+B046	Borgo Vercelli
+B048	Bormida
+B049	Bormio
+B051	Bornasco
+B054	Borno
+B055	Boroneddu
+B056	Borore
+B057	Borrello
+B058	Borriana
+B061	Borso del Grappa
+B062	Bortigali
+B063	Bortigiadas
+B064	Borutta
+B067	Borzonasca
+B068	Bosa
+B069	Bosaro
+B070	Boschi Sant'Anna
+B071	Bosco Marengo
+B073	Bosco Chiesanuova
+B075	Bosconero
+B076	Boscoreale
+B077	Boscotrecase
+B079	Bosia
+B080	Bosio
+B081	Bosisio Parini
+B082	Bosnasco
+B083	Bossico
+B084	Bossolasco
+B085	Botricello
+B086	Botrugno
+B088	Bottanuco
+B091	Botticino
+B094	Bottidda
+B097	Bova
+B098	Bovalino
+B099	Bova Marina
+B100	Bovegno
+B101	Boves
+B102	Bovezzo
+B104	Bovino
+B105	Bovisio-Masciago
+B106	Bovolenta
+B107	Bovolone
+B109	Bozzole
+B110	Bozzolo
+B111	Bra
+B112	Bracca
+B114	Bracciano
+B115	Bracigliano
+B116	Braies
+B117	Brallo di Pregola
+B118	Brancaleone
+B120	Brandico
+B121	Brandizzo
+B123	Branzi
+B124	Braone
+B126	Brebbia
+B128	Breda di Piave
+B129	Castelverde
+B131	Bregano
+B132	Breganze
+B134	Bregnano
+B136	Breia
+B137	Brembate
+B138	Brembate di Sopra
+B141	Brembio
+B142	Breme
+B143	Brendola
+B144	Brenna
+B145	Brennero
+B149	Breno
+B150	Brenta
+B152	Brentino Belluno
+B153	Brentonico
+B154	Brenzone sul Garda
+B156	Brescello
+B157	Brescia
+B158	Bresimo
+B159	Bressana Bottarone
+B160	Bressanone
+B161	Bressanvido
+B162	Bresso
+B165	Brez
+B166	Brezzo di Bedero
+B167	Briaglia
+B169	Briatico
+B171	Bricherasio
+B172	Brienno
+B173	Brienza
+B175	Briga Alta
+B176	Briga Novarese
+B178	Brignano Gera d'Adda
+B179	Brignano-Frascata
+B180	Brindisi
+B181	Brindisi Montagna
+B182	Brinzio
+B183	Briona
+B184	Brione
+B187	Briosco
+B188	Brisighella
+B191	Brissago-Valtravaglia
+B192	Brissogne
+B193	Brittoli
+B194	Brivio
+B195	Broccostella
+B196	Brogliano
+B197	Brognaturo
+B198	Brolo
+B200	Brondello
+B201	Broni
+B202	Bronte
+B203	Bronzolo
+B204	Brossasco
+B205	Brosso
+B207	Brovello-Carpugnino
+B209	Brozolo
+B212	Brugherio
+B213	Brugine
+B214	Brugnato
+B215	Brugnera
+B216	Bruino
+B217	Brumano
+B218	Brunate
+B219	Brunello
+B220	Brunico
+B221	Bruno
+B223	Brusaporto
+B225	Brusasco
+B227	Brusciano
+B228	Brusimpiano
+B229	Brusnengo
+B230	Brusson
+B232	Bruzolo
+B234	Bruzzano Zeffirio
+B235	Bubbiano
+B236	Bubbio
+B237	Buccheri
+B238	Bucchianico
+B239	Bucciano
+B240	Buccinasco
+B242	Buccino
+B243	Bucine
+B246	Buddusò
+B247	Budoia
+B248	Budoni
+B249	Budrio
+B250	Buggerru
+B251	Buggiano
+B255	Buglio in Monte
+B256	Bugnara
+B258	Buguggiate
+B259	Buja
+B261	Bulciago
+B262	Bulgarograsso
+B264	Bultei
+B265	Bulzi
+B266	Buonabitacolo
+B267	Buonalbergo
+B268	Montebello sul Sangro
+B269	Buonconvento
+B270	Buonvicino
+B272	Burago di Molgora
+B274	Burcei
+B275	Burgio
+B276	Burgos
+B278	Buriasco
+B279	Burolo
+B280	Buronzo
+B281	Busachi
+B282	Busalla
+B284	Busano
+B285	Busca
+B286	Buscate
+B287	Buscemi
+B288	Buseto Palizzolo
+B289	Busnago
+B292	Bussero
+B293	Busseto
+B294	Bussi sul Tirino
+B295	Busso
+B296	Bussolengo
+B297	Bussoleno
+B300	Busto Arsizio
+B301	Busto Garolfo
+B302	Butera
+B303	Buti
+B304	Buttapietra
+B305	Buttigliera Alta
+B306	Buttigliera d'Asti
+B309	Buttrio
+B310	San Paolo d'Argon
+B311	Cabella Ligure
+B312	Castello Cabiaglio
+B313	Cabiate
+B314	Cabras
+B315	Caccamo
+B317	Poggio Sannita
+B319	Caccuri
+B320	Ca' d'Andrea
+B326	Cadegliano-Viconago
+B328	Cadelbosco di Sopra
+B332	Cadeo
+B335	Caderzone Terme
+B345	Cadoneghe
+B346	Cadorago
+B347	Cadrezzate
+B349	Caerano di San Marco
+B350	Cafasse
+B351	Caggiano
+B352	Cagli
+B354	Cagliari
+B355	Caglio
+B357	Cagnano Varano
+B358	Cagnano Amiterno
+B359	Cagno
+B360	Cagnò
+B361	Caianello
+B362	Caiazzo
+B364	Caines
+B365	Caino
+B366	Caiolo
+B367	Cairano
+B368	Cairate
+B369	Cairo Montenotte
+B371	Caivano
+B374	Calabritto
+B375	Calalzo di Cadore
+B376	Calamandrana
+B377	Calamonaci
+B378	Calangianus
+B379	Calanna
+B380	Calasca-Castiglione
+B381	Calascibetta
+B382	Calascio
+B383	Calasetta
+B384	Calatabiano
+B385	Calatafimi Segesta
+B387	Lungavilla
+B388	Calcata
+B389	Calceranica al Lago
+B390	Calci
+B391	Calciano
+B392	Calcinaia
+B393	Calcinate
+B394	Calcinato
+B395	Calcio
+B396	Calco
+B397	Caldaro sulla Strada del Vino
+B398	Caldarola
+B399	Calderara di Reno
+B400	Caldes
+B402	Caldiero
+B403	Caldogno
+B404	Caldonazzo
+B405	Calendasco
+B406	Calenzano
+B408	Calestano
+B409	Calice Ligure
+B410	Calice al Cornoviglio
+B413	Calimera
+B415	Calitri
+B416	Calizzano
+B417	Callabiana
+B418	Calliano
+B419	Calliano
+B423	Calolziocorte
+B424	Calopezzati
+B425	Calosso
+B426	Caloveto
+B427	Caltabellotta
+B428	Caltagirone
+B429	Caltanissetta
+B430	Caltavuturo
+B431	Caltignaga
+B432	Calto
+B433	Caltrano
+B434	Calusco d'Adda
+B435	Caluso
+B436	Calvagese della Riviera
+B437	Calvanico
+B439	Calvatone
+B440	Calvello
+B441	Calvene
+B442	Calvenzano
+B443	Calvera
+B444	Calvi
+B445	Calvi Risorta
+B446	Calvi dell'Umbria
+B447	Calvignano
+B448	Calvignasco
+B450	Calvisano
+B452	Calvizzano
+B453	Camagna Monferrato
+B455	Camaiore
+B456	Camairago
+B457	Camandona
+B460	Camastra
+B461	Cambiago
+B462	Cambiano
+B463	Cambiasca
+B465	Camburzano
+B466	Sant'Elena Sannita
+B467	Camerana
+B468	Camerano
+B469	Camerano Casasco
+B470	Camerata Picena
+B471	Camerata Cornello
+B472	Camerata Nuova
+B473	Cameri
+B474	Camerino
+B476	Camerota
+B477	Camigliano
+B479	Caminata
+B481	Camini
+B482	Camino
+B483	Camino al Tagliamento
+B484	Camisano
+B485	Camisano Vicentino
+B486	Cammarata
+B489	Camo
+B490	Camogli
+B491	Chamois
+B492	Campagna
+B493	Campagna Lupia
+B494	Castel Campagnano
+B496	Campagnano di Roma
+B497	Campagnatico
+B498	Campagnola Cremasca
+B499	Campagnola Emilia
+B500	Campana
+B501	Camparada
+B502	Campegine
+B504	Campello sul Clitunno
+B505	Campertogno
+B506	Campi Salentina
+B507	Campi Bisenzio
+B509	Campiglia Marittima
+B510	Valprato Soana
+B511	Campiglia dei Berici
+B512	Campiglione Fenile
+B513	Campione d'Italia
+B514	Campitello di Fassa
+B515	Campli
+B516	Campo Calabro
+B519	Campobasso
+B520	Campobello di Licata
+B521	Campobello di Mazara
+B522	Campochiaro
+B524	Campodarsego
+B525	Campodenno
+B526	Campo di Giove
+B527	Campodimele
+B528	Campodipietra
+B529	Campo di Trens
+B530	Campodolcino
+B531	Campodoro
+B532	Campofelice di Roccella
+B533	Campofelice di Fitalia
+B534	Campofilone
+B535	Campofiorito
+B536	Campoformido
+B537	Campofranco
+B538	Campo Ligure
+B539	Campogalliano
+B540	Champorcher
+B541	Campolattaro
+B542	Campoli del Monte Taburno
+B543	Campoli Appennino
+B544	Campolieto
+B546	Campolongo Maggiore
+B547	Campolongo sul Brenta
+B549	Campomaggiore
+B550	Campomarino
+B551	Campomorone
+B553	Campo nell'Elba
+B554	Camponogara
+B555	Campora
+B556	Camporeale
+B557	Camporgiano
+B559	Camporosso
+B561	Camporotondo Etneo
+B562	Camporotondo di Fiastrone
+B563	Camposampiero
+B564	Campo San Martino
+B565	Camposano
+B566	Camposanto
+B567	Campospinoso
+B569	Campotosto
+B570	Campo Tures
+B572	Camugnano
+B573	Canale
+B574	Canale d'Agordo
+B576	Canale Monterano
+B577	Canal San Bovo
+B578	Canaro
+B579	Canazei
+B580	Cancellara
+B581	Cancello ed Arnone
+B582	Canda
+B584	Candela
+B586	Candelo
+B587	Candia Lomellina
+B588	Candia Canavese
+B589	Candiana
+B590	Candida
+B591	Candidoni
+B592	Candiolo
+B593	Canegrate
+B594	Canelli
+B595	Orvinio
+B597	Canepina
+B598	Caneva
+B599	Canevino
+B602	Canicattì
+B603	Canicattini Bagni
+B604	Canino
+B605	Canischio
+B606	Canistro
+B607	Canna
+B608	Cannalonga
+B609	Cannara
+B610	Cannero Riviera
+B612	Canneto sull'Oglio
+B613	Canneto Pavese
+B615	Cannobio
+B616	Cannole
+B617	Canolo
+B618	Canonica d'Adda
+B619	Canosa di Puglia
+B620	Canosa Sannita
+B621	Canosio
+B624	Cansano
+B626	Cantagallo
+B627	Cantalice
+B628	Cantalupa
+B629	Cantalupo Ligure
+B630	Cantalupo nel Sannio
+B631	Cantalupo in Sabina
+B632	Mandela
+B633	Cantarana
+B634	Cantello
+B635	Canterano
+B636	Cantiano
+B637	Cantoira
+B639	Cantù
+B640	Canzano
+B641	Canzo
+B642	Caorle
+B643	Caorso
+B644	Capaccio
+B645	Capaci
+B646	Capalbio
+B647	Capannoli
+B648	Capannori
+B649	Capena
+B650	Capergnanica
+B651	Capestrano
+B653	Capiago Intimiano
+B655	Capistrano
+B656	Capistrello
+B658	Capitignano
+B660	Capizzi
+B661	Capizzone
+B662	Ponte nelle Alpi
+B663	Capodimonte
+B664	Capo di Ponte
+B666	Capo d'Orlando
+B667	Capodrise
+B669	Capoliveri
+B670	Capolona
+B671	Caponago
+B672	Caporciano
+B674	Caposele
+B675	Capoterra
+B676	Capovalle
+B677	Cappadocia
+B678	Cappella Maggiore
+B679	Cappella Cantone
+B680	Cappella de' Picenardi
+B681	Cappelle sul Tavo
+B682	Capracotta
+B684	Capraia e Limite
+B685	Capraia Isola
+B686	Capralba
+B687	Capranica Prenestina
+B688	Capranica
+B689	Marzabotto
+B690	Caprarica di Lecce
+B691	Caprarola
+B692	Caprauna
+B693	Caprese Michelangelo
+B694	Caprezzo
+B695	Capri Leone
+B696	Capri
+B697	Capriana
+B698	Capriano del Colle
+B701	Capriata d'Orba
+B703	Capriate San Gervasio
+B704	Capriati a Volturno
+B705	Caprie
+B706	Capriglia Irpina
+B707	Capriglio
+B708	Caprile
+B709	Caprino Veronese
+B710	Caprino Bergamasco
+B711	Capriolo
+B712	Capriva del Friuli
+B715	Capua
+B716	Capurso
+B717	Caraffa di Catanzaro
+B718	Caraffa del Bianco
+B719	Caraglio
+B720	Caramagna Piemonte
+B722	Caramanico Terme
+B723	Carano
+B724	Carapelle
+B725	Carapelle Calvisio
+B726	Carasco
+B727	Carassai
+B729	Carate Brianza
+B730	Carate Urio
+B731	Caravaggio
+B732	Caravate
+B733	Caravino
+B734	Caravonica
+B735	Carbognano
+B736	Carbonara Scrivia
+B738	Villasimius
+B739	Carbonara di Po
+B740	Carbonara di Nola
+B741	Carbonara al Ticino
+B742	Carbonate
+B743	Carbone
+B744	Carbonera
+B745	Carbonia
+B748	Carcare
+B749	Carceri
+B752	Carcoforo
+B754	Cardano al Campo
+B755	Cardè
+B756	Cardeto
+B758	Cardinale
+B759	Cardito
+B760	Careggine
+B762	Carema
+B763	Carenno
+B765	Carentino
+B766	Careri
+B767	Caresana
+B768	Caresanablot
+B769	Carezzano
+B771	Carfizzi
+B772	Cargeghe
+B774	Cariati
+B776	Carife
+B777	Carignano
+B778	Carimate
+B779	Carinaro
+B780	Carini
+B781	Carinola
+B782	Carisio
+B783	Carisolo
+B784	Carlantino
+B785	Carlazzo
+B787	Carlentini
+B788	Carlino
+B789	Carloforte
+B790	Carlopoli
+B791	Carmagnola
+B792	Carmiano
+B794	Carmignano
+B795	Carmignano di Brenta
+B796	Carnago
+B798	Carnate
+B799	Cornedo all'Isarco
+B801	Carobbio degli Angeli
+B802	Carolei
+B803	Carona
+B804	Caronia
+B805	Caronno Pertusella
+B807	Caronno Varesino
+B808	Carosino
+B809	Carovigno
+B810	Carovilli
+B812	Carpaneto Piacentino
+B813	Carpanzano
+B814	Carpasio
+B816	Carpegna
+B817	Carpenedolo
+B818	Carpeneto
+B819	Carpi
+B820	Carpiano
+B822	Carpignano Salentino
+B823	Carpignano Sesia
+B824	Cura Carpignano
+B825	Carpineti
+B826	Carpineto Sinello
+B827	Carpineto della Nora
+B828	Carpineto Romano
+B829	Carpino
+B830	Carpinone
+B832	Carrara
+B835	Carrè
+B836	Carrega Ligure
+B838	Carro
+B839	Carrodano
+B840	Carrosio
+B841	Carrù
+B842	Carsoli
+B844	Cartigliano
+B845	Cartignano
+B846	Cartoceto
+B847	Cartosio
+B848	Cartura
+B850	Carugate
+B851	Carugo
+B853	Carunchio
+B854	Carvico
+B856	Carzano
+B857	Casabona
+B858	Casacalenda
+B859	Casacanditella
+B860	Casagiove
+B861	Casalanguida
+B862	Casalattico
+B864	Casalbeltrame
+B865	Casalbordino
+B866	Casalbore
+B867	Casalborgone
+B868	Casalbuono
+B869	Casalbuttano ed Uniti
+B870	Casal Cermelli
+B871	Casalciprano
+B872	Casal di Principe
+B873	Casalduni
+B875	Casale Litta
+B876	Casale Corte Cerro
+B877	Casale di Scodosia
+B878	Casale Marittimo
+B879	Casale sul Sile
+B880	Casalecchio di Reno
+B881	Casale Cremasco-Vidolasco
+B882	Casaleggio Boiro
+B883	Casaleggio Novara
+B885	Casale Monferrato
+B886	Casaleone
+B887	Casaletto Lodigiano
+B888	Casaletto Spartano
+B889	Casaletto Ceredano
+B890	Casaletto di Sopra
+B891	Casaletto Vaprio
+B892	Casalfiumanese
+B893	Casalgrande
+B894	Casalgrasso
+B895	Casal Velino
+B896	Casalincontrada
+B897	Casalino
+B898	Casalmaggiore
+B899	Casalmaiocco
+B900	Casalmorano
+B901	Casalmoro
+B902	Casalnoceto
+B903	Villapiana
+B904	Casalnuovo Monterotaro
+B905	Casalnuovo di Napoli
+B906	San Paolo Albanese
+B907	Casaloldo
+B910	Casalpusterlengo
+B911	Casalromano
+B912	Casalserugo
+B914	Pozzaglio ed Uniti
+B915	Trinitapoli
+B916	Casaluce
+B917	Casalvecchio di Puglia
+B918	Casalvecchio Siculo
+B919	Casalvieri
+B920	Casalvolone
+B921	Casalzuigno
+B922	Casamarciano
+B923	Casamassima
+B924	Casamicciola Terme
+B925	Casandrino
+B927	Casanova Lerrone
+B928	Casanova Elvo
+B929	Casanova Lonati
+B932	Casape
+B933	Casapinta
+B934	Casaprota
+B935	Casapulla
+B936	Casarano
+B937	Casargo
+B938	Casarile
+B939	Casarza Ligure
+B940	Casarsa della Delizia
+B941	Casasco
+B942	Casasco d'Intelvi
+B943	Casatenovo
+B945	Casatisma
+B946	Casavatore
+B947	Casazza
+B948	Cascia
+B949	Casciago
+B950	Cascina
+B952	San Giacomo Vercellese
+B953	Cascinette d'Ivrea
+B954	Casei Gerola
+B955	Caselette
+B956	Casella
+B958	Caselle Lurani
+B959	Caselle in Pittari
+B960	Caselle Torinese
+B961	Caselle Landi
+B962	Scandicci
+B963	Caserta
+B965	Casier
+B966	Casignana
+B967	Casina
+B968	Castelsilano
+B969	Castel di Casio
+B971	Casirate d'Adda
+B974	Caslino d'Erba
+B977	Casnate con Bernate
+B978	Casnigo
+B979	Casola in Lunigiana
+B980	Casola di Napoli
+B982	Casola Valsenio
+B983	Casole Bruzio
+B984	Casole d'Elsa
+B985	Casoli
+B987	Casorate Sempione
+B988	Casorate Primo
+B989	Casorezzo
+B990	Casoria
+B991	Casorzo
+B993	Caspoggio
+B994	Cassacco
+B996	Cassago Brianza
+B997	Cassano Irpino
+B998	Cassano delle Murge
+B999	Cassano Valcuvia
+C002	Cassano all'Ionio
+C003	Cassano d'Adda
+C004	Cassano Magnago
+C005	Cassano Spinola
+C006	Cassaro
+C007	Cassiglio
+C013	Pero
+C014	Cassina de' Pecchi
+C020	Cassina Rizzardi
+C022	Cassinasco
+C024	Cassina Valsassina
+C027	Cassine
+C030	Cassinelle
+C033	Cassinetta di Lugagnano
+C034	Cassino
+C037	Cassola
+C038	Cassolnovo
+C040	Castel Castagna
+C041	Castagnaro
+C044	Castagneto Carducci
+C045	Castagneto Po
+C046	Castagnito
+C047	Castagnole Monferrato
+C048	Castagnole Piemonte
+C049	Castagnole delle Lanze
+C050	Castana
+C051	Castell'Umberto
+C052	Castano Primo
+C053	Casteggio
+C055	Castegnato
+C056	Castegnero
+C057	Castelbaldo
+C058	Castel Baronia
+C059	Castelbelforte
+C060	Castelbellino
+C062	Castelbello-Ciardes
+C063	Castelbianco
+C064	Castel Boglione
+C065	Castel Bolognese
+C066	Castelbottaccio
+C067	Castelbuono
+C069	Castelcivita
+C070	Servigliano
+C072	Castelcovati
+C073	Castelcucco
+C074	Casteldaccia
+C075	Castel d'Aiano
+C076	Castel d'Ario
+C078	Castel d'Azzano
+C079	Castelli Calepio
+C080	Casteldelci
+C081	Casteldelfino
+C082	Castel del Giudice
+C083	Castel del Monte
+C085	Castel del Piano
+C086	Castel del Rio
+C089	Casteldidone
+C090	Castel di Ieri
+C091	Castel di Iudica
+C093	Castel di Lama
+C094	Castel di Lucio
+C096	Castel di Sangro
+C097	Castel di Sasso
+C098	Castel di Tora
